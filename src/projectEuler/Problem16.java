@@ -36,8 +36,5 @@ public class Problem16 {
         System.out.println("nothing");
 
     }
-    
-    public static void(){
-    }
 
 }
