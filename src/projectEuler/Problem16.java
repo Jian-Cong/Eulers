@@ -31,5 +31,7 @@ public class Problem16 {
         }
         return sum;
     }
+    public static void fun(){
+    }
 
 }
