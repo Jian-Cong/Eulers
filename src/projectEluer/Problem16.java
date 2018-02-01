@@ -1,4 +1,4 @@
-package projectEuler;
+package projectEluer;
 
 import java.math.BigDecimal;
 
